@@ -1,6 +1,6 @@
 # API Fatos de Gatos
 
-<img src="https://www.petz.com.br/blog/wp-content/uploads/2020/08/cat-sitter-felino-1280x720.jpg"/>
+<img src="https://headsupfortails.com/cdn/shop/articles/111_best_cat_names_cat_bathing__cover_image_copy_2_x630.jpg?v=1728024624"/>
 
 
 A **CatFact API** (catfact.ninja) é uma API que fornece fatos interessantes sobre gatos. Você pode fazer uma solicitação HTTP para obter um fato aleatório sobre gatos em formato JSON. Isso é perfeito para adicionar curiosidades sobre gatos a seu site ou aplicativo!
