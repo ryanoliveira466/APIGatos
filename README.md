@@ -1,6 +1,6 @@
 # API Fatos de Gatos
 
-<img src="https://catnets.com.au/cdn/shop/articles/Domestic-Shorthair.jpg?v=1663296992"  width=400 />
+<img src="https://catnets.com.au/cdn/shop/articles/Domestic-Shorthair.jpg?v=1663296992"  width=600 />
 
 ---
 
