@@ -1,6 +1,6 @@
 # API Fatos de Gatos
 
-<img src="https://headsupfortails.com/cdn/shop/articles/111_best_cat_names_cat_bathing__cover_image_copy_2_x630.jpg?v=1728024624"  width=400 />
+<img src="https://www.petz.com.br/blog/wp-content/uploads/2020/08/cat-sitter-felino-1280x720.jpg"  width=400 />
 
 ---
 
