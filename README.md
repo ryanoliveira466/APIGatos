@@ -6,7 +6,7 @@
 
 O **Cataas** (Cat as a Service) é um site divertido que oferece imagens aleatórias de gatos por meio de uma API. A ideia é bem simples e divertida: você faz uma solicitação para o site e ele retorna uma imagem de um gato, que pode ser personalizada com texto. A imagem é gerada com base nas solicitações feitas via API.
 
-Note que no HTML temos uma function`onclick` nas imagens dos gatos, então ao clicar na imagem vamos conseguir utilizar outra API que está exlicada abaixo.
+Note que no HTML temos uma function`onclick` nas imagens dos gatos, então ao clicar na imagem vamos conseguir utilizar outra API que está explicada abaixo.
 
 ---
 
