@@ -11,3 +11,4 @@ A função **JavaScript fetch()** usa a função fetch para fazer uma requisiç�
 
 Após isso o  fato é exibido no elemento da página.
 
+
